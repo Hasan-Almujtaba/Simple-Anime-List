@@ -1,0 +1,81 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+.navbar {
+	height: 80px;
+	margin-bottom: 0px;
+	padding: 15px 10px 10px; 
+    box-sizing: border-box;
+    border-radius: 0px;
+}
+
+.navbar-default { 
+     border:0px; 
+}
+
+.navbar-default .navbar-brand {
+    color: #ecf0f1
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #ecf0f1
+}
+
+.jumbotron {
+	background-color: #3498db;
+	color: #ffffff;
+}
+
+.create-list {
+    padding-top: 70px;
+
+}
+
+.table-responsive {
+    padding-top: 20px;
+
+}
+
+.genre-list {
+	padding: 0px 60px 20px;
+}
+
+.footer {
+	padding: 15px 0px 1px;
+	color: #ffffff;
+}
+
+.card-list {
+	padding-top: 20px;
+}
+
+.active {
+	color: #e74c3c;
+}
+
+.card-title {
+	color: black;
+	margin-bottom: 2rem;
+	font-weight: 300;
+	font-size: 1.5rem;
+}
+
+.form-control {
+	margin-bottom: 1rem;
+}
+
+.card {
+	border-radius: 1rem;
+}
+
+.form-group>input {
+	border-radius: 1rem;
+
+}
+
+.form-group>button {
+    border-radius: 1rem;
+}
+
